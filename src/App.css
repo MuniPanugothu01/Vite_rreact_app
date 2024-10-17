@@ -1,0 +1,31 @@
+/* style  */
+#muni {
+  text-align: center;
+  /* margin-top:-px; */
+}
+
+#span {
+  margin-top: -12px;
+  text-align: center;
+}
+
+.education {
+  display: flex;
+  justify-content: space-between;
+}
+
+.year {
+  margin-top: -10x;
+}
+
+#Electrical {
+  display: flex;
+  justify-content: space-between;
+  margin-top: -10x;
+}
+
+.Table,tr,td{
+  border: 2px solid green;
+  width: 800px;
+  text-align: center;
+}
